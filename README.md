@@ -1,11 +1,11 @@
 ### Hello! I'm Paramjit 👋
 
-##### I've been creating mobile apps for around ten years, and I have a degree in information technology. Although I have created in a number of programming languages, these days my main focus is on using React Native to create hybrid mobile apps. I have a strong interest in software and technologies. !
+##### I've been creating mobile apps for around ten years, and I have a degree in information technology. Although I have created in several programming languages, these days my main focus is on using React Native to create hybrid mobile apps. I have a strong interest in software and technologies. !
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramrana78/)
 <br/>
 <br/>
-[![GitHub stats]([https://github-readme-stats.vercel.app/api?username=andreluisjunqueira&show_icons=true&theme=dark#gh-dark-mode-only](https://github-readme-stats.vercel.app/api?username=paramrana78&show_icons=true&theme=dark))](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats]([https://github-readme-stats.vercel.app/api?username=paramrana78&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=paramrana78&show_icons=true&theme=dark))](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ### These are the technologies that I know about ⬇️
 
